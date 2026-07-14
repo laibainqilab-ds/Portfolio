@@ -25,5 +25,3 @@ https://laiba-portfolio-mauve.vercel.app/
 - Dark mode toggle
 - Social media/contact icons
 - CV download button
-
-## 📁 Project Structure
